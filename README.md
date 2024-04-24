@@ -2,7 +2,7 @@
 
 
 ### Introducción
-La seguridad vial es un aspecto fundamental en la sociedad moderna, ya que los accidentes de tráfico pueden tener consecuencias devastadoras tanto para las personas involucradas como para la sociedad en su conjunto. Con el objetivo de abordar este problema y contribuir a la reducción de la accidentalidad en las carreteras, se ha llevado a cabo el presente proyecto de Mejora de la Seguridad Vial.
+La seguridad vial es un aspecto fundamental en la sociedad moderna, ya que los accidentes de tráfico pueden tener consecuencias devastadoras tanto para las personas involucradas como para la sociedad en su conjunto. Con el objetivo de abordar este problema y contribuir a la reducción de la accidentalidad en las carreteras, se ha llevado a cabo el presente proyecto de Mejora de la Seguridad Vial para Observatorio de Movilidad y Seguridad Vial (OMSV).
 
 ### Descripción del Proyecto
 El proyecto tiene como objetivo principal analizar datos relacionados con accidentes de tráfico fatales y proponer medidas específicas para mejorar la seguridad en las carreteras. Para ello, se utilizaran bases de datos extraida directamente desde https://buenosaires.gob.ar/inicio/  con el fin de analizar se ha realizado oss factores que influyen en la accidentalidad, incluyendo características de los tipos vehículos, condiciones de las comunas, participantes de accidentes, involucrados, culpables y otros elementos relevantes.

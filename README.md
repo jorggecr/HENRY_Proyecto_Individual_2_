@@ -1,6 +1,6 @@
 # Proyecto de Mejora de la Seguridad Vial
 
-###Descripción del Proyecto
+## Descripción del Proyecto
 
 Este proyecto tiene como objetivo principal abordar el problema de la seguridad vial mediante la implementación de diversas medidas y estrategias. A través del análisis detallado de datos relacionados con accidentes de tráfico, se identificaron patrones y tendencias para desarrollar propuestas específicas destinadas a reducir la accidentalidad y mejorar la seguridad en las carreteras.
 

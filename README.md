@@ -4,7 +4,7 @@
 ### Introducción
 La seguridad vial es un aspecto fundamental en la sociedad moderna, ya que los accidentes de tráfico pueden tener consecuencias devastadoras tanto para las personas involucradas como para la sociedad en su conjunto. Con el objetivo de abordar este problema y contribuir a la reducción de la accidentalidad en las carreteras, se ha llevado a cabo el presente proyecto de Mejora de la Seguridad Vial.
 
-###Descripción del Proyecto
+### Descripción del Proyecto
 El proyecto tiene como objetivo principal analizar datos relacionados con accidentes de tráfico y proponer medidas específicas para mejorar la seguridad en las carreteras. Para ello, se ha realizado un análisis exhaustivo de diversos factores que influyen en la accidentalidad, incluyendo características de los vehículos, perfiles de los conductores, condiciones de las vías y otros elementos relevantes.
 
 ### Metodología Aplicada
